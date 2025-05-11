@@ -1,6 +1,6 @@
 name = "HTML-Jinja"
 grammar = "html"
-path_suffixes = ["jinja", "jinja2", "j2"]
+path_suffixes = ["html", "jinja", "jinja2", "j2"]
 block_comment = ["{#", "#}"]
 brackets = [
     { start = "[", end = "]", close = true, newline = true },
