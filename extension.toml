@@ -1,10 +1,10 @@
-id = "html-jinja"
-name = "HTML-Jinja Template Support"
-version = "0.1.0"
+id = "html-django"
+name = "HTML-Django Template Support"
+version = "1.0.0"
 schema_version = 1
-description = "Highlighting for HTML-Jinja templates."
-authors = ["Jaagup Averin"]
-repository = "https://github.com/JaagupAverin/html-jinja"
+description = "Highlighting for HTML-Django templates."
+authors = ["Serdar Akarca"]
+repository = "https://github.com/akarca/html-jinja"
 
 [grammars.jinja]
 repository = "https://github.com/cathaysia/tree-sitter-jinja"
